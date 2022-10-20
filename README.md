@@ -31,7 +31,7 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 **Languages and Tools:**  
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectormanu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilhectormanu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -42,14 +42,14 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=hectormanu&show_icons=true&theme=radical)
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=evilhectormanu&show_icons=true&theme=radical)
 
 ### GitHub Streak
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hectormanu&theme=highcontrast&hide_border=true" alt="hectormanu" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=evilhectormanu&theme=highcontrast&hide_border=true" alt="evilhectormanu" />
 
 ### Activity Trends
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=evilhectormanu&theme=dracula&hide_border=true)
 
-**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/hectormanu/count.svg)
+**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/evilhectormanu/count.svg)
